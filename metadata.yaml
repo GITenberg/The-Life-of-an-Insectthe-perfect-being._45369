@@ -10,6 +10,8 @@ covers:
 - cover_type: archival
   image_path: 45369-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45369#The-Life-of-an-Insectthe-perfect-being.
 gutenberg_issued: '2014-04-13'
 gutenberg_type: Text
 identifiers:
