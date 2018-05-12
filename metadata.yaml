@@ -1,0 +1,26 @@
+_repo: The-Life-of-an-Insectthe-perfect-being._45369
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Society for Promoting Christian Knowledge (Great Britain). General
+      Literature Committee
+    gutenberg_agent_id: '44349'
+    url: http://www.gutenberg.org/2009/agents/44349
+covers:
+- cover_type: archival
+  image_path: 45369-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Insects'
+title: "The Life of an Insect\r\nbeing a history of the changes of insects from the\
+  \ egg to the perfect being."
+url: http://www.gutenberg.org/ebooks/45369
